@@ -13,7 +13,7 @@ datalog_stop.py
 
 Description
 The daemon (datalog-s.py) listens for UDP data packets received from the UDPLogger.php class
-which is located within the Webkinz API.  It was first created to capture page view stats of 
+which is located within the web site API.  It was first created to capture page view stats of 
 adobe flash files by view_id, but is now receiving game metrics and others stats data as well.
 
 
