@@ -1,6 +1,5 @@
 /**
- * Author: DavidT 
- * Description: Script to submit flash page view data via a UDP socket to a python data listening daemon.
+ * Script to submit flash page view data via a UDP socket to a python data listening daemon.
  * The class is auto-loaded with the rest of the API
  */
 
